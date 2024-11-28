@@ -28,3 +28,9 @@ criaCartao(
     'QUem e o matematico considerado o pai da geometria?',
     'Euclides'
 )
+
+criaCartao(
+    'Programação',
+    'Quem é o pai da informática??',
+    'Alan Turing '
+)
