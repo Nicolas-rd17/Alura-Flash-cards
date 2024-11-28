@@ -22,3 +22,9 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Matematica',
+    'QUem e o matematico considerado o pai da geometria?',
+    'Euclides'
+)
